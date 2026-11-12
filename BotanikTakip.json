@@ -1,0 +1,8 @@
+{
+  "surum_tam": "10.95",
+  "etiket": "V10.95",
+  "indir_url": "https://github.com/fatihmazi/Guncellemeler/releases/download/BotanikTakip-10.95/BotanikTakipKurulum.exe",
+  "notlar": "Güncellemeler artık GitHub üzerinden dağıtılıyor (Google Drive yerine). Program için hiçbir şey değişmiyor: yeni sürüm çıktığında aynı bildirim penceresi gelir, tek tıkla iner ve kurulur; indirme daha hızlı ve kesintisizdir. Boyut ve sürüm doğrulaması aynen korundu, yarım veya yanlış indirme kurulmaz.",
+  "zorunlu": false,
+  "boyut": 68686551
+}
