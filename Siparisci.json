@@ -1,7 +1,7 @@
 {
   "surum_tam": "1.82",
   "etiket": "V1.82",
-  "indir_url": "https://github.com/fatihmazi/Guncellemeler/releases/download/Siparisci-1.82/SiparisciKurulum.exe",
-  "notlar": "Güncellemeler artık GitHub'dan geliyor: program yeni sürümü GitHub'daki güncelleme deposundan denetliyor ve kurulum dosyasını oradan indiriyor. Güncelleme penceresi ve kurulum eskisi gibi; senin bir şey yapmana gerek yok.\nDepo sitesi çökünce akıcılık: bir depo sitesi hata sayfası verirse (404/500, ulaşılamıyor, internet yok) elle giriş için 90 saniye beklenmiyor, tekrar denenmiyor, durum çubuğunda neden yazıyor; tarama ortasında site çökerse o depodaki sonuç \"stok yok\" değil \"Belirsiz\" yazılıyor ve depo taramanın kalanında sorulmuyor.",
+  "indir_url": "https://drive.usercontent.google.com/download?id=1fLC9GJfIPBmjo3sfcGURptgqe7gZQQZU&export=download&confirm=t",
+  "notlar": "Yeni sürüm hazır. Güncelle'ye basmanız yeterli.",
   "zorunlu": false
 }
