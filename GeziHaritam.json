@@ -1,0 +1,47 @@
+{
+  "app": "GeziHaritam",
+  "build": 117,
+  "versionName": "1.0.117",
+  "date": "2026-11-12T22:06:40Z",
+  "commit": "ab2d16ab5e68e1fc175e66c154a7b0caef39e0fe",
+  "notes": [
+    "First release published to the updates repository",
+    "In-app updates through fatihmazi/Guncellemeler",
+    "Update sheet: percent written the English way in English",
+    "In-app updates: lint fixes",
+    "In-app updates: docs (GUNCELLEME.md, SURUM-NOTLARI.md)",
+    "In-app updates: checks for the manifest rules, the CI writer and the Mac download"
+  ],
+  "android": {
+    "build": 117,
+    "versionName": "1.0.117",
+    "date": "2026-11-12T22:06:40Z",
+    "url": "https://github.com/fatihmazi/Guncellemeler/releases/download/GeziHaritam-117/GeziHaritam.apk",
+    "size": 16727901,
+    "sha256": "ce71b391c019feaa6db4f330173b04689af8b0f61b17cb5e7565ec139fba6c8c",
+    "notes": [
+      "First release published to the updates repository",
+      "In-app updates through fatihmazi/Guncellemeler",
+      "Update sheet: percent written the English way in English",
+      "In-app updates: lint fixes",
+      "In-app updates: docs (GUNCELLEME.md, SURUM-NOTLARI.md)",
+      "In-app updates: checks for the manifest rules, the CI writer and the Mac download"
+    ]
+  },
+  "mac": {
+    "build": 117,
+    "versionName": "1.0.117",
+    "date": "2026-11-12T22:06:40Z",
+    "url": "https://github.com/fatihmazi/Guncellemeler/releases/download/GeziHaritam-117/GeziHaritam-mac-AppleChip.dmg",
+    "size": 119264670,
+    "sha256": "5287a356d835e5431ea936c9010340055e694464dbcf60b082393b4d193869bf",
+    "notes": [
+      "First release published to the updates repository",
+      "In-app updates through fatihmazi/Guncellemeler",
+      "Update sheet: percent written the English way in English",
+      "In-app updates: lint fixes",
+      "In-app updates: docs (GUNCELLEME.md, SURUM-NOTLARI.md)",
+      "In-app updates: checks for the manifest rules, the CI writer and the Mac download"
+    ]
+  }
+}
