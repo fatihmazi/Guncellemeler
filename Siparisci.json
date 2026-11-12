@@ -2,6 +2,6 @@
   "surum_tam": "1.83",
   "etiket": "V1.83",
   "indir_url": "https://drive.usercontent.google.com/download?id=1fLC9GJfIPBmjo3sfcGURptgqe7gZQQZU&export=download&confirm=t",
-  "notlar": "Yeni sürüm hazır. Güncelle'ye basmanız yeterli; sonraki güncellemeler kendiliğinden gelir.",
+  "notlar": "Depo sitesi çökünce program artık takılmıyor: bir depo sitesi hata sayfası verirse (404/500, ulaşılamıyor, internet yok) elle giriş için 90 saniye beklenmiyor, durum çubuğunda nedeni yazıyor; tarama ortasında site çökerse o depodaki sonuç \"stok yok\" değil \"Belirsiz\" yazılıyor ve depo taramanın kalanında sorulmuyor.\nGüncellemeler artık Siparişçi'nin kendi gizli deposundan, şifreli bağlantıyla geliyor. Güncelleme penceresi ve kurulum eskisi gibi; senin bir şey yapmana gerek yok.",
   "zorunlu": false
 }
