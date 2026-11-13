@@ -1,8 +1,8 @@
 {
-  "surum_tam": "10.98",
-  "etiket": "V10.98",
+  "surum_tam": "10.99",
+  "etiket": "V10.99",
   "indir_url": "https://drive.usercontent.google.com/download?id=10WFunaf8Z4F-Irttixs6UQqLUz30WI9w&export=download&confirm=t",
-  "notlar": "Yeni sürüm bildirimi artık anında geliyor: eskiden güncelleme notunun sunucu önbelleğinden düşmesi beş dakika alabiliyor, bu süre içinde 'Güncellemeleri Denetle' yanlışlıkla 'en güncel sürümdesiniz' diyebiliyordu. Artık güncelleme bilgisi önbelleksiz okunuyor.",
+  "notlar": "Güncelleme dağıtım dosyaları yenilendi. Program tarafında bir değişiklik yok; yeni sürüm bildirimi, tek tıkla indirme ve kurulum aynı şekilde çalışıyor.",
   "zorunlu": false,
-  "boyut": 68687717
+  "boyut": 68687853
 }
