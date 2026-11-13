@@ -1,8 +1,8 @@
 {
-  "surum_tam": "10.96",
-  "etiket": "V10.96",
+  "surum_tam": "10.98",
+  "etiket": "V10.98",
   "indir_url": "https://drive.usercontent.google.com/download?id=10WFunaf8Z4F-Irttixs6UQqLUz30WI9w&export=download&confirm=t",
-  "notlar": "Güncelleme dosyaları artık herkese açık değil: program güncellemelerini yalnızca eczaneye dağıtılan kurulumun okuyabildiği özel bir depodan alıyor. Kullanıcı için değişen bir şey yok — yeni sürüm çıkınca aynı bildirim gelir, tek tıkla iner ve kurulur; boyut ve sürüm doğrulaması aynen korundu.",
+  "notlar": "Yeni sürüm bildirimi artık anında geliyor: eskiden güncelleme notunun sunucu önbelleğinden düşmesi beş dakika alabiliyor, bu süre içinde 'Güncellemeleri Denetle' yanlışlıkla 'en güncel sürümdesiniz' diyebiliyordu. Artık güncelleme bilgisi önbelleksiz okunuyor.",
   "zorunlu": false,
-  "boyut": 68687840
+  "boyut": 68687717
 }
