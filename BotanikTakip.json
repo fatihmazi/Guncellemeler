@@ -1,8 +1,8 @@
 {
-  "surum_tam": "10.99",
-  "etiket": "V10.99",
+  "surum_tam": "11.0",
+  "etiket": "V11",
   "indir_url": "https://drive.usercontent.google.com/download?id=10WFunaf8Z4F-Irttixs6UQqLUz30WI9w&export=download&confirm=t",
-  "notlar": "Güncelleme dağıtım dosyaları yenilendi. Program tarafında bir değişiklik yok; yeni sürüm bildirimi, tek tıkla indirme ve kurulum aynı şekilde çalışıyor.",
+  "notlar": "Reçete kontrolünde yeni denetimler: Trelegy 200 orta doz İKS, EK-4/D rapor tanısı ve raporlu ilacın raporsuz yoldan verilmesi artık yakalanıyor. Glarjin (Lantus/Toujeo ve eşdeğerleri) günde tek doz kuralı ile iğne ucu sayısının günlük insülin enjeksiyonunu aşamayacağı kuralı eklendi. Statin raporlarında yandaş hastalık ve ek risk faktörü artık hastanın açık diğer raporlarından da okunuyor. Reçete tarihi MEDULA Reçete Detay ekranından alınıyor, alım tarihiyle karışmıyor. Yapay zekâ model seçiminde aracı firma açıkça yazıyor. Dosya okunamadığında oluşan gereksiz yedek kopyalar temizlendi. Eşdeğer ilaç havuzu yenilendi (498 grup).",
   "zorunlu": false,
-  "boyut": 68687853
+  "boyut": 68761468
 }
