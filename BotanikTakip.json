@@ -1,8 +1,8 @@
 {
-  "surum_tam": "11.0",
-  "etiket": "V11",
+  "surum_tam": "11.1",
+  "etiket": "V11.1",
   "indir_url": "https://drive.usercontent.google.com/download?id=10WFunaf8Z4F-Irttixs6UQqLUz30WI9w&export=download&confirm=t",
   "notlar": "Bu bilgisayardaki kurulum uzun süredir güncellenmedi ve yeni güncelleme sunucusunu okuyamıyor. Bu sürüm sizi oraya taşıyacak: kurulum bittikten sonra program kendini en güncel sürüme kendisi yükseltecek, başka bir şey yapmanız gerekmiyor. İndirme başlamazsa veya hata alırsanız, programı size kuran kişiden güncel kurulum dosyasını isteyin.",
   "zorunlu": false,
-  "boyut": 68761468
+  "boyut": 68773548
 }
